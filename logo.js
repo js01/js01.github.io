@@ -1,2 +1,1 @@
-const 随机数 = Math.round(Math.random()*2+1)
-document.querySelector('img').src=`https://js01.github.io/images/emoji/${随机数}.png`
+document.querySelector('img').src=`https://js01.github.io/images/emoji/${Math.round(Math.random()*2+1)}.png`
