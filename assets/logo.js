@@ -1,1 +1,1 @@
-document.querySelector('img').src=`https://js01.github.io/images/emoji/${Math.round(Math.random()*2+1)}.png`
+document.querySelector('img').src=`https://js01.github.io/images/emoji/${Math.round(Math.random()*20+1)}.png`
